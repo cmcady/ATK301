@@ -1,0 +1,64 @@
+a:link {
+  color: #FF0000;
+}
+
+a:visited {
+  color: #00ff00;
+}
+
+a:hover {
+  color: #ffff00;
+}
+
+h1{
+  color: red;
+  background-color: black;
+}
+
+h2{
+  color: black;
+  background-color: red;
+}
+
+h3{
+  color: black;
+  background-color: red;
+}
+
+h4{
+  color: black;
+  background-color: red;
+}
+
+h5{
+  color: black;
+  background-color: red;
+}
+
+h6{
+  color: black;
+  background-color: red;
+}
+
+#footerid{
+  color: white;
+  background-color: blue;
+}
+
+.mainclass{
+  color: white;
+  background-color: black;
+}
+
+#lakersid{
+  color: yellow;
+  background-color: purple;
+}
+
+#divfooter{
+  text-decoration: underline;
+}
+
+.spanbold{
+  color: white;
+}
