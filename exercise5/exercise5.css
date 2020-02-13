@@ -1,0 +1,45 @@
+.orangetext {
+  color: #ff9900;
+}
+
+h2 {
+  color: blue;
+}
+header {
+  background-color:#6699ff;
+}
+
+h1 {
+  color: white;
+}
+
+h3 {
+  background-color: yellow;
+}
+
+h4 {
+  color: yellow;
+  background-color: green;
+}
+
+h5 {
+  color:purple;
+}
+
+.redtext {
+  color: red;
+}
+
+.greenback {
+  background-color: #99ff99;
+}
+
+a:link {
+  color: green;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  text-decoration: underline;
+}
