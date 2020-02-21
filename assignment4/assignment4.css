@@ -1,0 +1,24 @@
+.customtext{
+  font-family: sans-serif;
+}
+
+h1, h2, h3, h4, h5{
+  color: orange;
+  font-weight: normal;
+  font-style: italic;
+
+img{
+  border: 4px solid black;
+  padding: 10px 10px 10px 10px;
+}
+
+.textcenter{
+  text-align: center;
+}
+
+.textjustify{
+  text-align: justify;
+}
+body{
+  background-image: url(assignment4/download.jfif)
+}
