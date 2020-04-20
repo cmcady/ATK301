@@ -1,0 +1,85 @@
+body {
+  background-color: #999999;
+}
+
+#wrapper {
+  margin: 24px auto;
+  width: 1200px;
+  border: 1px solid black;
+  padding: 24px;
+  background-color: #ffffff;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-column-gap: 24px;
+
+}
+
+
+footer{
+  color:white;
+  background-color:blue;
+  vertical-align: bottom;
+  grid-column: span 12;
+}
+
+nav ul{
+  list-style-type: none;
+  text-align: right;
+
+
+
+
+}
+
+nav li{
+  padding-right: 10px;
+  margin: 10px;
+  width: 200px;
+  text-align: center;
+  background-color: blue;
+  font-size: 45px;
+
+
+
+
+}
+nav li a{
+  color: white;
+  display: block;
+  background-position:100%
+
+
+}
+a:link{
+  text-decoration: none;
+
+}
+a:hover{
+  text-decoration: underline;
+}
+h1{
+  padding: 30px;
+  margin: 30px;
+  background-color: blue;
+  text-align: center;
+  color:white;
+  width: 200px;
+  grid-column: span 4;
+  font-size: 50px;
+}
+nav{
+  grid-column: span 4;
+}
+
+#pictureofme{
+grid-column: span 4;
+width: 300px;
+}
+.placefillerimage{
+  grid-column: span 4;
+  width: 150px;
+}
+
+main{
+  grid-column: span 12;
+}
